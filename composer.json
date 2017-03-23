@@ -1,0 +1,18 @@
+{
+  "name": "shtoorman/test3fram",
+  "description": "Sample FW",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "shtoorman",
+      "email": "bar2683@mail.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Mindk\\Framework\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {}
+}
